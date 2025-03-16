@@ -1,0 +1,10 @@
+[
+    {
+        "title": "demo",
+        "author": "hasnain",
+        "year": 2025,
+        "genre": "demo",
+        "read": false,
+        "pdf": "pdf_books\\sample-1.pdf"
+    }
+]
